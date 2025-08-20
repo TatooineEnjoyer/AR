@@ -1,0 +1,12 @@
+
+/node_modules/
+
+/.react-router/
+/build/
+
+
+/.DS_Store/
+
+*.log
+.env
+.vscode/
